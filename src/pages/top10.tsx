@@ -39,4 +39,5 @@ export const getStaticProps: GetStaticProps<Top10Props> = async (context) => {
     },
     revalidate: 5,
   }
+
 }
